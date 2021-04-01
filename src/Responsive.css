@@ -1,0 +1,31 @@
+@media only screen and (max-width: 767px){
+    .admin-card .card-header{
+        text-align:center !important;
+    }
+    .admin-card .card-body{
+        padding-left: 20px !important;
+        padding-right: 20px !important;
+    }
+    .centerText{
+        text-align: center;
+    }
+
+    .admin-height{
+        height: 100% !important;
+    }
+    .admin-height .list-group{
+        padding-bottom: 25px;
+    }
+
+    .center-sm-text{
+        text-align:center;
+    }
+    .login-form{
+        width: 330px !important;
+    }
+    .custom-flexbox{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
